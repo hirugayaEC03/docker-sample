@@ -1,0 +1,4 @@
+selenium
+streamlit
+requests
+urllib3
